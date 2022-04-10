@@ -1,8 +1,8 @@
 <?php
  
 // For input
-$size        = explode(' ', readline('test1:'));
-$expenditure = explode(' ', readline('test2:'));
+$size        = explode(' ', readline(''));
+$expenditure = explode(' ', readline(''));
 
 // Proccessing
 $n            = $size[0];
